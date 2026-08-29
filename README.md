@@ -5,7 +5,7 @@ C++ software engineer working on native software, systems integration, developer
 ## Projects
 
 | Project | Description | Status |
-|---|---|---|
+| --- | --- | --- |
 | **[AI Studio](https://github.com/git-ducu/personal-ai-studio)** | AI-assisted development and agent tooling platform for building, evaluating, and managing reusable capabilities | 🟢 Active Development |
 | **[Forza DualSense Haptics](https://github.com/git-ducu/forza-dualsense-haptics)** | Real-time Forza telemetry processing with DualSense adaptive triggers, haptic audio, and direct HID control | 🟢 Active |
 | **[CLOVA WAVE Protocol Research](https://github.com/git-ducu/clova-wave-ble-re)** | Reverse engineering of NL-S500 provisioning flows, including BLE/GATT, RFCOMM/SPP, protocol framing, and cryptographic flow analysis | 🔒 Private / Research Complete |
@@ -21,7 +21,7 @@ My professional background spans automotive software, medical device software, c
 
 A large part of my work involves integrating and debugging software across system boundaries — SDKs, operating systems, hardware interfaces, communication protocols, build environments, and deployment pipelines.
 
-Outside of work, I build projects around AI-assisted development, device integration, protocol analysis, real-time telemetry, automation, and tools that solve specific technical problems.
+Outside of work, I build projects around AI-assisted development, device integration, protocol analysis, real-time telemetry, automation, and developer tooling.
 
 ---
 
@@ -32,7 +32,7 @@ Outside of work, I build projects around AI-assisted development, device integra
 - C++ application and SDK development
 - Windows / Linux cross-platform development
 - Multi-threaded application development
-- SDK integration and system integration
+- SDK and system integration
 - Debugging across platform and dependency boundaries
 - Packaging and release workflows
 - Desktop and device-control applications
@@ -50,8 +50,6 @@ Outside of work, I build projects around AI-assisted development, device integra
 
 ### Automotive Software
 
-Currently working in the automotive software domain with experience in:
-
 - C++ software development
 - SDK and system integration
 - Cross-platform build environments
@@ -60,8 +58,6 @@ Currently working in the automotive software domain with experience in:
 - Debugging and integration of large software systems
 
 ### Computer Vision & 3D Geometry
-
-Background in computer vision and geometry, including:
 
 - Camera calibration
 - Camera geometry
@@ -78,8 +74,6 @@ I also conducted graduate research in computer vision and 3D reconstruction.
 
 ### Device & Communication Software
 
-Experience with software communicating directly with devices and external systems:
-
 - TCP/IP
 - Serial communication
 - Modbus TCP
@@ -91,8 +85,6 @@ Experience with software communicating directly with devices and external system
 - Signal-processing workflows
 
 ### Image, Video & Media Processing
-
-Experience with:
 
 - OpenCV
 - FFmpeg-based video pipelines
@@ -132,33 +124,15 @@ Experience with:
 
 ---
 
-## Project Highlights
+## Professional Interests
 
-### AI Studio
-
-An AI-assisted development platform focused on building and managing reusable agent capabilities.
-
-The project explores structured capability generation, evaluation, execution workflows, and tooling for developing more reliable AI-assisted systems.
-
-**Focus areas**
-
-- Agent tooling
-- Capability generation
-- Evaluation and validation
-- Reusable capability architecture
-- AI-assisted engineering workflows
-
----
-
-### Forza DualSense Haptics
-
-A telemetry-driven haptic engine that connects Forza Horizon telemetry to Sony DualSense controller features.
-
-```text
-Forza UDP Telemetry
-        ↓
-Vehicle State Processing
-        ↓
-Haptic / Trigger Decision
-        ↓
-DualSense HID + Haptic Audio
+- Native software architecture
+- System and SDK integration
+- Developer tooling
+- Build and CI infrastructure
+- Device interoperability
+- Communication protocols
+- Computer vision
+- Real-time processing
+- Protocol analysis and reverse engineering
+- AI-assisted software engineering
