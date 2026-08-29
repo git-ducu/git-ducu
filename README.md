@@ -1,102 +1,133 @@
-## Hi there 👋
+# Hi, I'm DUCU 👋
 
-I'm **DUCU**, a C++ developer working across cross-platform native software, computer vision, device control, SDK integration, build systems, and CI automation.
+C++ software engineer building systems, tools, device integrations, and things I find interesting enough to take apart.
 
-I mainly work on native software across Windows and Linux environments, with experience in automotive software, medical device software, camera systems, real-time communication, and developer tooling.
+## Projects
+
+| Project | What it is | Status |
+|---|---|---|
+| **[AI Studio](https://github.com/git-ducu/personal-ai-studio)** | AI-assisted development and agent tooling platform for building, evaluating, and managing reusable capabilities | 🟢 Active Development |
+| **[Forza DualSense Haptics](https://github.com/git-ducu/forza-dualsense-haptics)** | Real-time Forza telemetry → DualSense adaptive triggers, haptic audio, and direct HID control | 🟢 Public / Active |
+| **CLOVA WAVE Protocol Research** | Reverse engineering of NL-S500 provisioning flows, including BLE/GATT, RFCOMM/SPP, protocol framing, and cryptographic flows | 🔒 Private / Research Complete |
+| **Android Home Dashboard** | Android-based personal dashboard integrating calendar, notifications, device features, and PC workflows | ✅ Completed |
+
+I use this GitHub mostly for projects that start with one of three thoughts:
+
+- *I wish this existed.*
+- *I wonder how this works.*
+- *I can probably automate this.*
+
+---
 
 ## About Me
 
-* 🔭 Currently working on C++ software, SDK integration, build systems, and CI automation in the automotive software domain
-* 🧰 Experienced with C++, CMake, Visual Studio, GCC, Jenkins, OpenCV, CUDA-related environments, and Windows / Linux tooling
-* 🎥 Background in camera geometry, camera calibration, 3D reconstruction, visual odometry, SLAM, and point cloud processing
-* 🏥 Experience with medical device software, device-control applications, image processing, and signal-processing workflows
-* 🔌 Worked with TCP/IP, Serial communication, Modbus TCP, and multi-threaded server/client systems
-* 🎞️ Experience with FFmpeg-based video pipelines, CUDA acceleration, OpenCV-based image processing, and distributed processing systems
-* 📄 Research experience in computer vision and 3D reconstruction, including a master's thesis written in Korean
-* 🎮 Building personal tools around real-time telemetry, haptic feedback, game controller integration, and developer workflow automation
+I'm a **C++ developer** working primarily on cross-platform native software across Windows and Linux.
 
-## Main Areas
+My professional background spans automotive software, medical device software, computer vision, camera systems, SDK integration, device communication, build systems, and CI automation.
 
-* C++ application and SDK development
-* Cross-platform development on Windows and Linux
-* Build systems and packaging with CMake, MSBuild, GCC, Visual Studio, and related tools
-* Jenkins-based CI pipelines and automation
-* SDK integration, debugging, and release packaging
-* Medical device software and device-control applications
-* TCP/IP, Serial communication, Modbus TCP, and multi-threaded systems
-* Computer vision algorithm development
-* Camera geometry, calibration, 3D reconstruction, visual odometry, and SLAM
-* OpenCV / CUDA / FFmpeg-based image and video processing
-* Point cloud processing, registration, and visualization
-* Developer tooling and workflow improvement
+I tend to enjoy work that sits between software and the underlying system — integrating SDKs, debugging difficult platform issues, controlling hardware, analyzing protocols, improving build pipelines, or figuring out how an existing system actually works.
+
+### What I work with
+
+- **Native Software** — C++, C, CMake, MSBuild, GCC, Visual Studio
+- **Cross-platform Development** — Windows / Linux
+- **SDK Integration** — integration, debugging, packaging, and release workflows
+- **Build & CI** — CMake, Jenkins, Git, GitHub, automated build pipelines
+- **Computer Vision** — OpenCV, CUDA, camera geometry, calibration, 3D reconstruction
+- **Devices & Communication** — TCP/IP, Serial, Modbus TCP, HID, Bluetooth
+- **Image / Video Processing** — OpenCV, FFmpeg, CUDA-accelerated pipelines
+- **Developer Tooling** — automation, diagnostics, packaging, workflow improvement
+
+---
+
+## Background
+
+### Automotive Software
+
+Currently working in the automotive software domain, primarily around:
+
+- C++ application and SDK development
+- SDK integration and system integration
+- Cross-platform Windows / Linux environments
+- CMake and build-system maintenance
+- Jenkins CI pipelines
+- Debugging, packaging, and release automation
+
+### Computer Vision
+
+My background also includes computer vision and 3D geometry:
+
+- Camera calibration
+- Camera geometry
+- 3D reconstruction
+- Visual odometry
+- SLAM
+- Point cloud processing
+- Registration and visualization
+- OpenCV / CUDA-based image processing
+
+I also conducted graduate research in computer vision and 3D reconstruction.
+
+### Device & System Software
+
+Previous work includes:
+
+- Medical device software
+- Device-control applications
+- MFC / WPF desktop applications
+- TCP/IP communication
+- Serial communication
+- Modbus TCP
+- Multi-threaded server / client systems
+- Signal-processing workflows
+- Industrial monitoring software
+
+### Media & Processing
+
+I've also worked with:
+
+- FFmpeg-based video pipelines
+- CUDA acceleration
+- OpenCV image processing
+- Distributed processing systems
+- Camera and video processing applications
+
+---
 
 ## Tech Stack
 
 ### Languages
 
-* C++
-* C
-* Python
-* C#
-* Shell Script
-* Delphi
+`C++` `C` `Python` `C#` `Shell` `Delphi`
 
-### Build / Tooling
+### Build / Development
 
-* CMake
-* MSBuild
-* Make
-* Visual Studio
-* VSCode
-* Git
-* GitHub
-* Jenkins
+`CMake` `MSBuild` `Make` `Visual Studio` `VS Code` `Git` `GitHub` `Jenkins`
 
-### Vision / Geometry / Media
+### Vision / Graphics / Media
 
-* OpenCV
-* CUDA
-* FFmpeg
-* OpenGL
-* PCL
-* Camera Calibration
-* Camera Geometry
-* 3D Reconstruction
-* Visual Odometry / SLAM
-* Point Cloud Processing
+`OpenCV` `CUDA` `FFmpeg` `OpenGL` `PCL`
 
-### Device / Communication
+### Systems / Communication
 
-* TCP/IP
-* Serial Communication
-* Modbus TCP
-* Multi-threaded Server / Client Systems
-* MFC / WPF-based desktop applications
-* Device Control Software
+`TCP/IP` `Serial` `Modbus TCP` `HID` `Bluetooth` `Multi-threading`
 
-### Platforms / Domains
+### Platforms
 
-* Windows
-* Linux
-* Automotive Software
-* Medical Device Software
-* Camera Systems
-* Industrial Monitoring Systems
-* SDK Integration
-* Build Automation
-* Computer Vision Tooling
-* Game-related Utility Tools
+`Windows` `Linux`
 
-## Personal Projects
+---
 
-I'm using this GitHub account for personal projects, experiments, and small tools.
+## What I'm Exploring Now
 
-Current interests:
+Outside of work, I like building tools around areas that overlap software, hardware, and automation.
 
-* Real-time telemetry tools
-* Haptic feedback systems
-* Game controller integration
-* Developer workflow automation
-* Packaging small tools for public release
+Current interests include:
 
-More projects will be added here soon.
+- AI-assisted engineering and agent tooling
+- Protocol reverse engineering
+- Real-time telemetry processing
+- Haptic feedback and controller integration
+- Device interoperability
+- Developer workflow automation
+- Small tools that solve annoyingly specific problems
