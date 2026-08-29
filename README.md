@@ -1,21 +1,25 @@
 # Hi, I'm DUCU 👋
 
-C++ software engineer building systems, tools, device integrations, and things I find interesting enough to take apart.
+C++ software engineer working on native software, systems integration, developer tooling, and personal engineering projects.
 
 ## Projects
 
-| Project | What it is | Status |
+| Project | Description | Status |
 |---|---|---|
 | **[AI Studio](https://github.com/git-ducu/personal-ai-studio)** | AI-assisted development and agent tooling platform for building, evaluating, and managing reusable capabilities | 🟢 Active Development |
-| **[Forza DualSense Haptics](https://github.com/git-ducu/forza-dualsense-haptics)** | Real-time Forza telemetry → DualSense adaptive triggers, haptic audio, and direct HID control | 🟢 Public / Active |
-| **CLOVA WAVE Protocol Research** | Reverse engineering of NL-S500 provisioning flows, including BLE/GATT, RFCOMM/SPP, protocol framing, and cryptographic flows | 🔒 Private / Research Complete |
-| **Android Home Dashboard** | Android-based personal dashboard integrating calendar, notifications, device features, and PC workflows | ✅ Completed |
+| **[Forza DualSense Haptics](https://github.com/git-ducu/forza-dualsense-haptics)** | Real-time Forza telemetry processing with DualSense adaptive triggers, haptic audio, and direct HID control | 🟢 Active |
+| **[CLOVA WAVE Protocol Research](https://github.com/git-ducu/clova-wave-ble-re)** | Reverse engineering of NL-S500 provisioning flows, including BLE/GATT, RFCOMM/SPP, protocol framing, and cryptographic flows | 🔒 Private / Research Complete |
+| **[Android Home Dashboard](https://github.com/git-ducu/android-home-dashboard)** | Android-based personal dashboard integrating calendar, notifications, device features, and PC workflows | ✅ Completed |
 
-I use this GitHub mostly for projects that start with one of three thoughts:
+---
 
-- *I wish this existed.*
-- *I wonder how this works.*
-- *I can probably automate this.*
+## About Me
+
+I'm a C++ developer working primarily on cross-platform native software across Windows and Linux.
+
+My professional background includes automotive software, medical device software, computer vision, camera systems, SDK integration, device communication, build systems, and CI automation.
+
+I tend to work close to the system layer — integrating SDKs, debugging platform issues, controlling devices, working with communication protocols, optimizing build pipelines, and developing tools around existing systems.
 
 ---
 
