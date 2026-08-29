@@ -1,4 +1,4 @@
-# Hi, I'm DUCU 👋
+# DUCU
 
 C++ software engineer working on native software, systems integration, developer tooling, and personal engineering projects.
 
@@ -8,58 +8,60 @@ C++ software engineer working on native software, systems integration, developer
 |---|---|---|
 | **[AI Studio](https://github.com/git-ducu/personal-ai-studio)** | AI-assisted development and agent tooling platform for building, evaluating, and managing reusable capabilities | 🟢 Active Development |
 | **[Forza DualSense Haptics](https://github.com/git-ducu/forza-dualsense-haptics)** | Real-time Forza telemetry processing with DualSense adaptive triggers, haptic audio, and direct HID control | 🟢 Active |
-| **[CLOVA WAVE Protocol Research](https://github.com/git-ducu/clova-wave-ble-re)** | Reverse engineering of NL-S500 provisioning flows, including BLE/GATT, RFCOMM/SPP, protocol framing, and cryptographic flows | 🔒 Private / Research Complete |
+| **[CLOVA WAVE Protocol Research](https://github.com/git-ducu/clova-wave-ble-re)** | Reverse engineering of NL-S500 provisioning flows, including BLE/GATT, RFCOMM/SPP, protocol framing, and cryptographic flow analysis | 🔒 Private / Research Complete |
 | **[Android Home Dashboard](https://github.com/git-ducu/android-home-dashboard)** | Android-based personal dashboard integrating calendar, notifications, device features, and PC workflows | ✅ Completed |
 
 ---
 
 ## About Me
 
-I'm a C++ developer working primarily on cross-platform native software across Windows and Linux.
-
-My professional background includes automotive software, medical device software, computer vision, camera systems, SDK integration, device communication, build systems, and CI automation.
-
-I tend to work close to the system layer — integrating SDKs, debugging platform issues, controlling devices, working with communication protocols, optimizing build pipelines, and developing tools around existing systems.
-
----
-
-## About Me
-
-I'm a **C++ developer** working primarily on cross-platform native software across Windows and Linux.
+I'm a **C++ software developer** working primarily on cross-platform native software across Windows and Linux.
 
 My professional background spans automotive software, medical device software, computer vision, camera systems, SDK integration, device communication, build systems, and CI automation.
 
-I tend to enjoy work that sits between software and the underlying system — integrating SDKs, debugging difficult platform issues, controlling hardware, analyzing protocols, improving build pipelines, or figuring out how an existing system actually works.
+A large part of my work involves integrating and debugging software across system boundaries — SDKs, operating systems, hardware interfaces, communication protocols, build environments, and deployment pipelines.
 
-### What I work with
-
-- **Native Software** — C++, C, CMake, MSBuild, GCC, Visual Studio
-- **Cross-platform Development** — Windows / Linux
-- **SDK Integration** — integration, debugging, packaging, and release workflows
-- **Build & CI** — CMake, Jenkins, Git, GitHub, automated build pipelines
-- **Computer Vision** — OpenCV, CUDA, camera geometry, calibration, 3D reconstruction
-- **Devices & Communication** — TCP/IP, Serial, Modbus TCP, HID, Bluetooth
-- **Image / Video Processing** — OpenCV, FFmpeg, CUDA-accelerated pipelines
-- **Developer Tooling** — automation, diagnostics, packaging, workflow improvement
+Outside of work, I build projects around AI-assisted development, device integration, protocol analysis, real-time telemetry, automation, and tools that solve specific technical problems.
 
 ---
 
-## Background
+## Areas of Experience
+
+### Native & Cross-platform Software
+
+- C++ application and SDK development
+- Windows / Linux cross-platform development
+- Multi-threaded application development
+- SDK integration and system integration
+- Debugging across platform and dependency boundaries
+- Packaging and release workflows
+- Desktop and device-control applications
+
+### Build Systems & CI
+
+- CMake-based build systems
+- MSBuild / Visual Studio environments
+- GCC toolchains
+- Jenkins CI pipelines
+- Automated build and packaging workflows
+- Dependency and SDK integration
+- Build troubleshooting across Windows and Linux
+- Developer workflow automation
 
 ### Automotive Software
 
-Currently working in the automotive software domain, primarily around:
+Currently working in the automotive software domain with experience in:
 
-- C++ application and SDK development
-- SDK integration and system integration
-- Cross-platform Windows / Linux environments
-- CMake and build-system maintenance
-- Jenkins CI pipelines
-- Debugging, packaging, and release automation
+- C++ software development
+- SDK and system integration
+- Cross-platform build environments
+- Continuous integration
+- Release and packaging workflows
+- Debugging and integration of large software systems
 
-### Computer Vision
+### Computer Vision & 3D Geometry
 
-My background also includes computer vision and 3D geometry:
+Background in computer vision and geometry, including:
 
 - Camera calibration
 - Camera geometry
@@ -67,34 +69,38 @@ My background also includes computer vision and 3D geometry:
 - Visual odometry
 - SLAM
 - Point cloud processing
-- Registration and visualization
-- OpenCV / CUDA-based image processing
+- Point cloud registration
+- 3D visualization
+- OpenCV-based image processing
+- CUDA-accelerated processing
 
 I also conducted graduate research in computer vision and 3D reconstruction.
 
-### Device & System Software
+### Device & Communication Software
 
-Previous work includes:
+Experience with software communicating directly with devices and external systems:
 
-- Medical device software
-- Device-control applications
-- MFC / WPF desktop applications
-- TCP/IP communication
+- TCP/IP
 - Serial communication
 - Modbus TCP
-- Multi-threaded server / client systems
+- HID
+- Bluetooth
+- Multi-threaded server / client architectures
+- Device-control applications
+- Industrial monitoring systems
 - Signal-processing workflows
-- Industrial monitoring software
 
-### Media & Processing
+### Image, Video & Media Processing
 
-I've also worked with:
+Experience with:
 
+- OpenCV
 - FFmpeg-based video pipelines
 - CUDA acceleration
-- OpenCV image processing
+- Image-processing pipelines
+- Camera and video processing
 - Distributed processing systems
-- Camera and video processing applications
+- Real-time data processing
 
 ---
 
@@ -104,11 +110,11 @@ I've also worked with:
 
 `C++` `C` `Python` `C#` `Shell` `Delphi`
 
-### Build / Development
+### Build & Development
 
 `CMake` `MSBuild` `Make` `Visual Studio` `VS Code` `Git` `GitHub` `Jenkins`
 
-### Vision / Graphics / Media
+### Computer Vision / Graphics / Media
 
 `OpenCV` `CUDA` `FFmpeg` `OpenGL` `PCL`
 
@@ -116,22 +122,43 @@ I've also worked with:
 
 `TCP/IP` `Serial` `Modbus TCP` `HID` `Bluetooth` `Multi-threading`
 
+### Desktop / Device Software
+
+`MFC` `WPF` `Device Control` `SDK Integration`
+
 ### Platforms
 
 `Windows` `Linux`
 
 ---
 
-## What I'm Exploring Now
+## Project Highlights
 
-Outside of work, I like building tools around areas that overlap software, hardware, and automation.
+### AI Studio
 
-Current interests include:
+An AI-assisted development platform focused on building and managing reusable agent capabilities.
 
-- AI-assisted engineering and agent tooling
-- Protocol reverse engineering
-- Real-time telemetry processing
-- Haptic feedback and controller integration
-- Device interoperability
-- Developer workflow automation
-- Small tools that solve annoyingly specific problems
+The project explores structured capability generation, evaluation, execution workflows, and tooling for developing more reliable AI-assisted systems.
+
+**Focus areas**
+
+- Agent tooling
+- Capability generation
+- Evaluation and validation
+- Reusable capability architecture
+- AI-assisted engineering workflows
+
+---
+
+### Forza DualSense Haptics
+
+A telemetry-driven haptic engine that connects Forza Horizon telemetry to Sony DualSense controller features.
+
+```text
+Forza UDP Telemetry
+        ↓
+Vehicle State Processing
+        ↓
+Haptic / Trigger Decision
+        ↓
+DualSense HID + Haptic Audio
